@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bry.mynetworkoffice",
+    "sha256_cert_fingerprints": ["1C:7C:B3:01:D8:D6:6B:07:A0:D0:A3:4B:AE:14:B5:47:F3:DD:9D:4C:3A:B3:C9:B8:6E:9C:C3:B2:93:7C:B3:19"]
+  }
+}]
